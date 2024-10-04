@@ -9,6 +9,9 @@ import { Component } from '@angular/core';
 })
 export class FormsComponent {
 
+<<<<<<< HEAD
   results = [];
 
+=======
+>>>>>>> 3bcc1e8c19ba7ee91ec1197e3e04cb50b21b0437
 }
